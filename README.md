@@ -1,4 +1,5 @@
-# Introduction-to-NLP
+# Automated Genre Tagger
+Find all the genres of a movie.
 
 Please extract the files to a folder and then follow the steps
 
