@@ -1,6 +1,6 @@
 # Automated Genre Tagger
 Find all the genres of a movie.
-
+This is a simple BOW model build for classification task
 Please download all the files into your local machine and then follow the steps
 
 1)Run the Runme.py file  
